@@ -1,0 +1,15 @@
+fr\uvsq\hal\pglp\rpg\Character.class
+fr\uvsq\hal\pglp\rpgdao\JdbcDaoFactory.class
+fr\uvsq\hal\pglp\rpgdao\DaoFactory$DaoType.class
+fr\uvsq\hal\pglp\rpg\MembreDeTeam.class
+fr\uvsq\hal\pglp\rpg\Team.class
+fr\uvsq\hal\pglp\rpg\Character$1.class
+fr\uvsq\hal\pglp\rpgdao\CharacterJdbcDao.class
+fr\uvsq\hal\pglp\rpgdao\DaoFactory.class
+fr\uvsq\hal\pglp\rpg\Character$Builder.class
+fr\uvsq\hal\pglp\rpg\Ability.class
+fr\uvsq\hal\pglp\rpg\Skill.class
+fr\uvsq\hal\pglp\rpgdao\CharacterSerializedDao.class
+fr\uvsq\hal\pglp\rpgdao\Dao.class
+fr\uvsq\hal\pglp\rpgdao\SerializedDaoFactory.class
+fr\uvsq\hal\pglp\rpg\Team$TeamIterator.class

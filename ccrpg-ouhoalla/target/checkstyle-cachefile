@@ -1,0 +1,5 @@
+#Fri Mar 11 23:55:41 CET 2022
+configuration*?=8E1378D7B70DD4769650D5D92D772E573538D6BD
+module-resource*?\:checkstyle-xpath-suppressions.xml=D026F201F3E3D856FE332EC0DB75CD74265457E0
+module-resource*?\:checkstyle-suppressions.xml=4FC334063C4F2CCF5BF4F7A59AAE0600D60BFCD6
+C\:\\Users\\HP\\Desktop\\GL_S2\\CC\\ccrpg-ouhoalla\\src\\main\\java\\fr\\uvsq\\hal\\pglp\\rpgdao\\SerializedDaoFactory.java=1647029905021

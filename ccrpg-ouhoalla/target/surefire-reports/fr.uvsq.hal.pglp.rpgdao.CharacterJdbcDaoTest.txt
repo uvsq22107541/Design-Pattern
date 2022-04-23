@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: fr.uvsq.hal.pglp.rpgdao.CharacterJdbcDaoTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.703 s <<< FAILURE! - in fr.uvsq.hal.pglp.rpgdao.CharacterJdbcDaoTest
+selectTest(fr.uvsq.hal.pglp.rpgdao.CharacterJdbcDaoTest)  Time elapsed: 0.687 s  <<< ERROR!
+java.sql.SQLSyntaxErrorException: Syntax error: Encountered "character" at line 1, column 14.
+	at fr.uvsq.hal.pglp.rpgdao.CharacterJdbcDaoTest.setupBeforeAll(CharacterJdbcDaoTest.java:22)
+Caused by: org.apache.derby.shared.common.error.StandardException: Syntax error: Encountered "character" at line 1, column 14.
+	at fr.uvsq.hal.pglp.rpgdao.CharacterJdbcDaoTest.setupBeforeAll(CharacterJdbcDaoTest.java:22)
+
